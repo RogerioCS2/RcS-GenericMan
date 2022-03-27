@@ -1,6 +1,12 @@
 {
   "resources": [
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"sprTileCenario","path":"sprites/sprTileCenario/sprTileCenario.yy",},"order":0,},
+    {"id":{"name":"Stage01","path":"rooms/Stage01/Stage01.yy",},"order":0,},
+    {"id":{"name":"tlTileCenario","path":"tilesets/tlTileCenario/tlTileCenario.yy",},"order":0,},
+    {"id":{"name":"Stage02","path":"rooms/Stage02/Stage02.yy",},"order":2,},
+    {"id":{"name":"Stage03","path":"rooms/Stage03/Stage03.yy",},"order":1,},
+    {"id":{"name":"sprFundo","path":"sprites/sprFundo/sprFundo.yy",},"order":1,},
+    {"id":{"name":"Stage04","path":"rooms/Stage04/Stage04.yy",},"order":3,},
     {"id":{"name":"antFuncoesUteis","path":"notes/antFuncoesUteis/antFuncoesUteis.yy",},"order":2,},
   ],
   "Options": [
@@ -21,7 +27,10 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Stage01","path":"rooms/Stage01/Stage01.yy",},},
+    {"roomId":{"name":"Stage03","path":"rooms/Stage03/Stage03.yy",},},
+    {"roomId":{"name":"Stage02","path":"rooms/Stage02/Stage02.yy",},},
+    {"roomId":{"name":"Stage04","path":"rooms/Stage04/Stage04.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
