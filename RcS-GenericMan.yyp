@@ -1,12 +1,20 @@
 {
   "resources": [
+    {"id":{"name":"sprPlayerParado","path":"sprites/sprPlayerParado/sprPlayerParado.yy",},"order":0,},
     {"id":{"name":"sprTileCenario","path":"sprites/sprTileCenario/sprTileCenario.yy",},"order":0,},
+    {"id":{"name":"objBlocoInterno","path":"objects/objBlocoInterno/objBlocoInterno.yy",},"order":0,},
     {"id":{"name":"Stage01","path":"rooms/Stage01/Stage01.yy",},"order":0,},
     {"id":{"name":"tlTileCenario","path":"tilesets/tlTileCenario/tlTileCenario.yy",},"order":0,},
     {"id":{"name":"Stage02","path":"rooms/Stage02/Stage02.yy",},"order":2,},
+    {"id":{"name":"sprBlocoInterno","path":"sprites/sprBlocoInterno/sprBlocoInterno.yy",},"order":2,},
     {"id":{"name":"Stage03","path":"rooms/Stage03/Stage03.yy",},"order":1,},
+    {"id":{"name":"objBlocoExterno","path":"objects/objBlocoExterno/objBlocoExterno.yy",},"order":1,},
+    {"id":{"name":"objPlayer","path":"objects/objPlayer/objPlayer.yy",},"order":0,},
+    {"id":{"name":"sprBlocoExplosivo","path":"sprites/sprBlocoExplosivo/sprBlocoExplosivo.yy",},"order":4,},
+    {"id":{"name":"sprBlocoExterno","path":"sprites/sprBlocoExterno/sprBlocoExterno.yy",},"order":3,},
     {"id":{"name":"sprFundo","path":"sprites/sprFundo/sprFundo.yy",},"order":1,},
     {"id":{"name":"Stage04","path":"rooms/Stage04/Stage04.yy",},"order":3,},
+    {"id":{"name":"objBlocoExplosivo","path":"objects/objBlocoExplosivo/objBlocoExplosivo.yy",},"order":2,},
     {"id":{"name":"antFuncoesUteis","path":"notes/antFuncoesUteis/antFuncoesUteis.yy",},"order":2,},
   ],
   "Options": [
