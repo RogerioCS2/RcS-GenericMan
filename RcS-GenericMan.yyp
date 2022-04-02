@@ -1,10 +1,12 @@
 {
   "resources": [
+    {"id":{"name":"objMaquinaEstados","path":"objects/objMaquinaEstados/objMaquinaEstados.yy",},"order":0,},
     {"id":{"name":"sprPlayerParado","path":"sprites/sprPlayerParado/sprPlayerParado.yy",},"order":0,},
     {"id":{"name":"sprTileCenario","path":"sprites/sprTileCenario/sprTileCenario.yy",},"order":0,},
     {"id":{"name":"objBlocoInterno","path":"objects/objBlocoInterno/objBlocoInterno.yy",},"order":0,},
     {"id":{"name":"Stage01","path":"rooms/Stage01/Stage01.yy",},"order":0,},
     {"id":{"name":"tlTileCenario","path":"tilesets/tlTileCenario/tlTileCenario.yy",},"order":0,},
+    {"id":{"name":"Player","path":"scripts/Player/Player.yy",},"order":0,},
     {"id":{"name":"Stage02","path":"rooms/Stage02/Stage02.yy",},"order":2,},
     {"id":{"name":"sprBlocoInterno","path":"sprites/sprBlocoInterno/sprBlocoInterno.yy",},"order":2,},
     {"id":{"name":"Stage03","path":"rooms/Stage03/Stage03.yy",},"order":1,},
