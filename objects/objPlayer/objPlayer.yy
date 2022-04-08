@@ -5,7 +5,10 @@
   },
   "solid": false,
   "visible": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "sprPlayerColisao",
+    "path": "sprites/sprPlayerColisao/sprPlayerColisao.yy",
+  },
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
