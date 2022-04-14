@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sprInimigoBase",
-    "path": "sprites/sprInimigoBase/sprInimigoBase.yy",
+    "name": "sprInimigo00AndandoBaixo",
+    "path": "sprites/sprInimigo00AndandoBaixo/sprInimigo00AndandoBaixo.yy",
   },
   "solid": false,
   "visible": true,

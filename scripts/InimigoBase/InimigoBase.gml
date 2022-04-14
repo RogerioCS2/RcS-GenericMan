@@ -12,6 +12,13 @@ function SelecionaDirecao(){
 	}	
 }
 
+function AnimacaoInimigos(){
+	if(velocidadeHorizontalInimigo < 0){ sprite_index = animacoesInimigos[4];}
+	if(velocidadeHorizontalInimigo > 0){ sprite_index = animacoesInimigos[3];}
+	if(velocidadeVerticalInimigo < 0){sprite_index = animacoesInimigos[2];}
+	if(velocidadeVerticalInimigo > 0){sprite_index = animacoesInimigos[1];}	
+}
+
 function MovimentoInimigo(){
 	repeat(abs(velocidadeHorizontalInimigo)){
 		var colisaEixoX = (!place_meeting(x + sign(velocidadeHorizontalInimigo), y, objBlocoExterno))
@@ -47,6 +54,8 @@ function MovimentoInimigo(){
 		velocidadeVerticalInimigo = 0;
 		SelecionaDirecao();		
 	}
+	
+	AnimacaoInimigos();
 }
 
 function UpdateInimigos(){
