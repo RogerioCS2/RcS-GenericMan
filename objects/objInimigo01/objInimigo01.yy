@@ -1,16 +1,16 @@
 {
   "spriteId": {
-    "name": "sprInimigo00AndandoBaixo",
-    "path": "sprites/sprInimigo00AndandoBaixo/sprInimigo00AndandoBaixo.yy",
+    "name": "sprInimigo01",
+    "path": "sprites/sprInimigo01/sprInimigo01.yy",
   },
   "solid": false,
   "visible": true,
-  "spriteMaskId": {
-    "name": "sprColisorBase",
-    "path": "sprites/sprColisorBase/sprColisorBase.yy",
-  },
+  "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "objInimigoBase",
+    "path": "objects/objInimigoBase/objInimigoBase.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -25,7 +25,6 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -34,7 +33,7 @@
     "path": "folders/Objetos/Inimigos.yy",
   },
   "resourceVersion": "1.0",
-  "name": "objInimigoBase",
+  "name": "objInimigo01",
   "tags": [],
   "resourceType": "GMObject",
 }
